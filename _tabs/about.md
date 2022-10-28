@@ -10,7 +10,3 @@ I am a technology generalist, with a broad knowledge of the IT industry. In the 
 
 _Disclaimer_ : This site is created for reference, some documentation and to share knowledge with an open mind with the hope that it may help someone in community. All thoughts shared are my own and by no means reflect opinions of my employer.
 
-Thank you for visiting and feel free to reach out! 
-
-My certifications/Badges
-<https://www.credly.com/users/avadesh-kaushal/badges>
